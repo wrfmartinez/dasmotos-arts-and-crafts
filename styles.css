@@ -18,4 +18,35 @@ header {
   font-size: 100px;
   font-weight: bold;
   color: khaki;
+  margin-bottom: 80px;
+}
+
+section h2, section p {
+  margin-bottom: 25px;
+}
+
+section h3 { 
+  margin: 15px 0;
+}
+
+.section-title-one, .section-title-two, .section-title-three {
+  font-size: 32px;
+  color: white;
+}
+
+.section-title-one {
+  background-color: mediumspringgreen;
+}
+
+.section-title-two {
+  background-color: lightcoral;
+}
+
+.section-title-three {
+  background-color: skyblue;
+}
+
+.price-link {
+  font-weight: bold;
+  text-decoration: none;
 }
